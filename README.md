@@ -2,7 +2,7 @@
 
 ## 2019-10-14
 
-Local Commands learned so far:
+Local Commands :
 
 - `init`: initializes folder as a git repository
 - `status`: looks at the current status
