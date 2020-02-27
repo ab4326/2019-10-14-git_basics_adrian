@@ -10,3 +10,5 @@ Commands learned so far:
 - `commit`: save snapshot and write a message
 - `log`: look at the commit history
     - `log --oneline`: just look at the oneline version
+    
+Adrian Boyd
