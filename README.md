@@ -6,3 +6,5 @@ Commands learned so far:
 
 - `init`: initializes folder as a git repository
 - `status`: looks at the current status
+
+My name is Adrian Boyd.
