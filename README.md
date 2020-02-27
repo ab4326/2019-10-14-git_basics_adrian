@@ -13,4 +13,8 @@ Local Commands learned so far:
 - `HEAD`: this is the current commit you are looking at.
 - `checkout`: a very powerful and general command to move you `Head`
 
+Remote Commands:
 
+- `get remote add [URL]`: add the [URL] as a remote
+- `git push [where] [what]`: sends code from computer to remote
+- `git pull [where] [what]`: sends code from remote to computer 
