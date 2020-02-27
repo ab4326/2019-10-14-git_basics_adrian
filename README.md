@@ -6,5 +6,7 @@ Commands learned so far:
 
 - `init`: initializes folder as a git repository
 - `status`: looks at the current status
-
-My name is Adrian Boyd.
+- `add`: add files to staging area
+- `commit`: save snapshot and write a message
+- `log`: look at the commit history
+    - `log --oneline`: just look at the oneline version
