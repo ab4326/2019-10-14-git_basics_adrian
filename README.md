@@ -2,7 +2,11 @@
 
 ## 2019-10-14
 
-Local Commands :
+
+
+
+Local Commands (e.g.,laptop):
+
 
 - `init`: initializes folder as a git repository
 - `status`: looks at the current status
@@ -13,7 +17,7 @@ Local Commands :
 - `HEAD`: this is the current commit you are looking at.
 - `checkout`: a very powerful and general command to move you `Head`
 
-Remote Commands:
+Remote Commands (e.g., GitHub):
 
 - `get remote add [URL]`: add the [URL] as a remote
 - `git push [where] [what]`: sends code from computer to remote
