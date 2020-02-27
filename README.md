@@ -5,7 +5,7 @@
 
 
 
-Local Commands (e.g.,laptop):
+### Local Commands (e.g.,laptop):
 
 
 - `init`: initializes folder as a git repository
@@ -17,8 +17,14 @@ Local Commands (e.g.,laptop):
 - `HEAD`: this is the current commit you are looking at.
 - `checkout`: a very powerful and general command to move you `Head`
 
-Remote Commands (e.g., GitHub):
+### Remote Commands (e.g., GitHub):
 
 - `get remote add [URL]`: add the [URL] as a remote
 - `git push [where] [what]`: sends code from computer to remote
 - `git pull [where] [what]`: sends code from remote to computer 
+
+### A change from a branch
+
+Hello 
+
+`git checkout -b`: created and moved to new branch
